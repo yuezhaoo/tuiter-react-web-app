@@ -1,0 +1,117 @@
+.wd-left-16 {
+    padding-left: 16px;
+}
+
+.wd-top-12 {
+    padding-top: 12px;
+}
+
+.wd-bottom-12 {
+    padding-bottom: 12px;
+}
+
+.wd-bottom-24 {
+    padding-bottom: 24px;
+}
+
+.wd-right-16 {
+    padding-right: 16px;
+}
+
+.wd-right-12 {
+    padding-right: 12px;
+}
+
+.wd-relative-left {
+    position: relative;
+    left: 12px;
+}
+
+.wd-relative-top {
+    position: relative;
+    top: 12px;
+}
+
+.wd-relative-up-bottom {
+    position: relative;
+    top: 12px;
+    bottom: 12px;
+}
+
+.wd-title-padding {
+    padding-top: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+.wd-text-padding {
+    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+
+
+.wd-bookmark-style {
+    color: white;
+    font-size: 20px;
+}
+
+.wd-handle-style {
+    color: rgb(110,118,125);
+    font-size: 13px;
+}
+
+.wd-border {
+    border-color: rgb(47,51,54);
+    border-width: 1px;
+    border-style: solid;
+}
+
+.wd-rounded-corners-all {
+    border-radius: 50px;
+}
+
+.wd-float-left {
+    float: left;
+}
+
+.wd-author-style {
+    font-size: 15px;
+    color: white;
+}
+
+.wd-light-gray {
+    font-size: 15px;
+    color: rgb(110,118,125);
+}
+
+.wd-width-506 {
+    max-width: 506px;
+}
+
+.wd-rounded-corners-top {
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+}
+
+.wd-bold-title {
+    font-weight: bold;
+    font-size: 15px;
+    color: white;
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+.wd-inline {
+    display: inline-block;
+}
+
+.wd-icon-equal {
+    width: 25%;
+    float: left;
+}
+
+
+

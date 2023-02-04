@@ -1,0 +1,33 @@
+#focus-pg {
+    background-color: lightgreen;
+    color: red;
+}
+
+h2 {
+    background-color: purple;
+    color: white;
+}
+
+p#goals {
+    background-color: #26aca8;
+    color: yellow;
+
+    margin:30px;
+    margin-top: 20px;
+
+    /*border-width: 20px;
+    border-color: blue;
+    border-style: ridge;*/
+    border: 30px blue dotted;
+    border-bottom: 40px red ridge;
+    border-top-width: 20px;
+    border-top-color: purple;
+
+    padding: 10px;
+    padding-right: 40px;
+
+}
+
+p {
+    background-color: limegreen;
+}

@@ -1,0 +1,132 @@
+.wd-rounded-corners-all {
+    border-radius: 20px;
+}
+
+.wd-bg-color-dark-gray {
+    background-color: dimgray;
+}
+
+.wd-border-dark-gray {
+    border-color: dimgray;
+}
+
+.wd-fg-color-white {
+    color: white;
+}
+
+.wd-left-16 {
+    position: relative;
+    left: 16px;
+}
+
+.wd-top-16 {
+    position: relative;
+    top: 16px;
+}
+
+.wd-right-16 {
+    position: relative;
+    right: 16px;
+}
+
+.wd-pos-abs-0-24 {
+    position: absolute;
+    top: 5px;
+    left: 16px;
+    right: 34px;
+}
+
+.wd-pos-abs-0-12 {
+    position: absolute;
+    top: 5px;
+    right: 12px;
+}
+
+.wd-fg-color-blue {
+    color: deepskyblue;
+}
+
+.wd-padding-all-around {
+    padding: 16px;
+}
+
+.wd-pos-rel-down {
+    position: relative;
+    top: 27px;
+}
+
+.wd-float-left {
+    float: left;
+}
+
+.wd-float-done {
+    clear: both;
+}
+
+.wd-first-link-color {
+    color: rgb(29,161,242);
+}
+
+.wd-other-links-color {
+    color: rgb(110,118,125);
+}
+
+.wd-link-font-size {
+    font-size: 15px;
+}
+
+.wd-link-border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.wd-top-border {
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(47, 51, 54);
+}
+
+.wd-post-C {
+    border-style: solid;
+    border-color: rgb(47, 51, 54);
+    border-width: 1px;
+}
+
+.wd-topic {
+    font-size: 13px;
+    color: rgb(110,118,125);
+}
+
+.wd-title {
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+.wd-num-tuits {
+    font-size: 13px;
+    color: rgb(110,118,125);
+}
+
+.wd-author {
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+}
+
+.wd-post-D {
+    border-style: solid;
+    border-color: rgb(47, 51, 54);
+    border-width: 1px;
+    padding-bottom: 60px;
+}
+
+.wd-float-right {
+    float: right;
+}
+
+.wd-img-100 {
+    width: 100px;
+    height: 100px;
+}
