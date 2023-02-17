@@ -1,5 +1,5 @@
 export default [
-    {   avatarIcon: 'https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/800px-Image_created_with_a_mobile_phone.png',
+    {   avatarIcon: '../../images/java.png',
         userName: 'Java', handle: '@Java', },
     {   avatarIcon: '../../images/relativity.png',
         userName: 'Relativity Space',

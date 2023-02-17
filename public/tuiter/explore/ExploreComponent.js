@@ -17,6 +17,7 @@ const ExploreComponent = () => {
                     <i class="fa fa-cog fa-2x" style="color:#0d6efd"></i>
                 </span>
         </div>
+        
         <ul class="nav mb-2 nav-pills">
                       <!-- tabs -->
             <li class="nav-item">
