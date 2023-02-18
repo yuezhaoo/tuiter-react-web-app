@@ -6,7 +6,7 @@ export default [
         handle: '@relativityspace', },
     {   avatarIcon: '../../images/virgingalactic.png',
         userName: 'Virgin Galactic',
-        handle: 'v@irgingalactic', },
+        handle: '@virgingalactic', },
     {   avatarIcon: '../../images/nasa.png',
         userName: 'NASA', handle: '@NASA', },
     {   avatarIcon: '../../images/tesla.png',

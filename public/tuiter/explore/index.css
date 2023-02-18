@@ -10,9 +10,9 @@
 
 .wd-bottom-left {
     position: absolute;
-    bottom: 8px;
+    bottom: 5px;
     left: 16px;
-    font-size: 25px;
+    font-size: 45px;
 }
 
 .wd-bottom-left-above {
@@ -25,7 +25,7 @@
 .wd-text-over-img {
     position: relative;
     text-align: center;
-    color: white;
+    color: #282828;
 }
 
 
