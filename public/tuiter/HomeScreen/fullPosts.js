@@ -19,7 +19,7 @@ export default [
         handle: '@nypost',
         time: ' · 23h',
         title: 'Grimes seen reading Karl Marx following split with the richest man of the world.',
-        image: '../../images/newyorkpost.jpeg',
+        image: '../../images/newyorkpost.png',
         postTitle: '',
         postContent: '',
         site: '',
