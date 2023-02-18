@@ -10,7 +10,7 @@ const NavigationSidebar = (active) => {
                 <i class="fa fa-home float-start"></i>
                 <span class="d-none d-xl-block float-start ms-2">Home</span>
             </a>
-            <a class="list-group-item active list-group-item-action ${active === "Explore"? "active" : ''}" 
+            <a class="list-group-item list-group-item-action ${active === "Explore"? "active" : ''}" 
                href="../explore/index.html">
                 <i class="fa fa-hashtag float-start"></i>
                 <span class="d-none d-xl-block float-start ms-2">Explore</span>
