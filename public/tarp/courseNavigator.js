@@ -27,4 +27,3 @@ function courseNavigator(highlight = 'Home') {
         </div> 
     `)
 }
-export default courseNavigator

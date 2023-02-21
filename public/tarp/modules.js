@@ -1,4 +1,4 @@
-export default function modules() {
+function modules() {
     return (`
         <ul class="list-group mb-4">
             <li class="list-group-item list-group-item-primary">Resources</li>

@@ -11,4 +11,3 @@ function tarpNavigator() {
         </div>
     `)
 }
-export default tarpNavigator
