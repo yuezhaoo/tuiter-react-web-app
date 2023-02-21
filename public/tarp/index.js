@@ -1,3 +1,11 @@
+/* eslint-env jquery */
+
+import tarpNavigator from "./tarpNavigator.js";
+import courseNavigator from "./courseNavigator.js";
+import modules from "./modules.js";
+import sidebar from "./sidebar.js";
+
+
 const tarpElement = $('#tarp')
 tarpElement.append(`
         <div class="container">
