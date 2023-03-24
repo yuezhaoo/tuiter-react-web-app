@@ -49,11 +49,11 @@ const NavigationSidebar = () => {
                 <i className="bi bi-list-ul float-start"></i>
                 <span className="d-none d-xl-block float-start ms-2">Lists</span>
             </a>
-            <a className={`list-group-item list-group-item-action
+            <Link to="/tuiter/profile" className={`list-group-item list-group-item-action
                     ${active === 'profile'?'active':''}`}>
                 <i className="bi bi-person-circle float-start"></i>
                 <span className="d-none d-xl-block float-start ms-2">Profile</span>
-            </a>
+            </Link>
             <a className={`list-group-item list-group-item-action
                     ${active === 'more'?'active':''}`}>
                 <i className="bi bi-three-dots float-start"></i>

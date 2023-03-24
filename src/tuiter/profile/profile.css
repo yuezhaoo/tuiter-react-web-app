@@ -1,0 +1,30 @@
+.wd-large-text {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+.wd-bottom-left {
+    position: absolute;
+    bottom: 200px;
+    left: 30px;
+}
+
+/*.wd-img-over-img {*/
+/*    position: relative;*/
+/*}*/
+
+.wd-relative-top {
+    position: relative;
+    top: 25px;
+}
+
+.wd-slight-rel-top {
+    position: relative;
+    top: 20px;
+}
+
+.wd-bottom-left-edit {
+    position: absolute;
+    top: 320px;
+    left: 30px;
+}
