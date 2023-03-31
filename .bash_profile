@@ -1,0 +1,1 @@
+export REACT_APP_API_BASE=https://tuiter-node-server-app-8tlp.onrender.com/api/tuits
